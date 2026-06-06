@@ -35,30 +35,6 @@ Rather than focusing on a particular technology stack, I'm interested in underst
 
 ---
 
-## Currently Thinking About
-
-* How reasoning emerges in learning systems
-* Efficient algorithms for complex decision-making
-* Market microstructure and quantitative trading
-* Graph-based representations and learning
-* Scaling intelligence through structure rather than brute force
-
----
-
-## Philosophy
-
-I believe the most interesting problems are usually found at the boundaries between disciplines.
-
-Mathematics provides the language.
-
-Computer science provides the tools.
-
-Research provides the questions.
-
-Building provides the answers.
-
----
-
 ## Beyond Code
 
 When I'm not programming, you'll usually find me:
