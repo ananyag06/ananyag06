@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1200&center=true&vCenter=true&width=900&lines=Ananya+Gupta;Researcher.;Builder.;Interested+in+difficult+problems." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1200&center=true&vCenter=true&width=900&lines=Ananya+Gupta;Researcher.;Builder.;Mathematical+Thinker." />
 </p>
 
 # Ananya Gupta
