@@ -70,11 +70,14 @@ When I'm not programming, you'll usually find me:
 * Learning something completely unrelated to my current work
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ananyag06/ananyag06/output/github-contribution-grid-snake.svg" />
+</p>
 
 ## Connect
 
 * GitHub: https://github.com/ananyag06
-* LinkedIn: [Your LinkedIn]
+* LinkedIn: https://www.linkedin.com/in/ananya-gupta-001601292/
 
 ---
 
