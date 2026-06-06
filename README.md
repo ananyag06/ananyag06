@@ -26,9 +26,6 @@ When I'm not programming, you'll usually find me:
 
 ---
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ananyag06&theme=dark&hide_border=true" />
-</p>
-<p align="center">
   <img src="https://raw.githubusercontent.com/ananyag06/ananyag06/output/github-contribution-grid-snake.svg" />
 </p>
 
