@@ -4,13 +4,7 @@
 
 ## About
 
-I'm a Computer Science student, researcher, and builder interested in problems that sit at the intersection of mathematics, intelligence, and real-world systems.
-
-My interests span machine learning, quantitative finance, optimization, graph theory, decision-making systems, and large-scale computing.
-
-I enjoy moving between theory and implementation—whether that means studying research papers, designing algorithms, building products, public speaking or experimenting with new ideas.
-
-Rather than focusing on a particular technology stack, I'm interested in understanding the principles that make systems efficient, reliable, and intelligent.
+I'm a Computer Science student, researcher, and builder interested in problems that sit at the intersection of mathematics, intelligence, and real-world systems. My interests span machine learning, quantitative finance, optimization, graph theory, decision-making systems, and large-scale computing. I enjoy moving between theory and implementation—whether that means studying research papers, designing algorithms, building products, public speaking or experimenting with new ideas. Rather than focusing on a particular technology stack, I'm interested in understanding the principles that make systems efficient, reliable, and intelligent.
 
 ---
 <p align="center">
