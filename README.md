@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1200&center=true&vCenter=true&width=900&lines=Ananya+Gupta;Researcher.;Builder.;Mathematical+Thinker." />
+<p align="right">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1200&center=true&vCenter=true&width=900&lines=Ananya+Gupta.+Researcher.+Builder.+Mathematical+Thinker.;Welcome+to+my+profile!" />
 </p>
 
 ## About
@@ -8,21 +8,9 @@ I'm a Computer Science student, researcher, and builder interested in problems t
 
 My interests span machine learning, quantitative finance, optimization, graph theory, decision-making systems, and large-scale computing.
 
-I enjoy moving between theory and implementation—whether that means studying research papers, designing algorithms, building products, or experimenting with new ideas.
+I enjoy moving between theory and implementation—whether that means studying research papers, designing algorithms, building products, public speaking or experimenting with new ideas.
 
 Rather than focusing on a particular technology stack, I'm interested in understanding the principles that make systems efficient, reliable, and intelligent.
-
----
-
-## Beyond Code
-
-When I'm not programming, you'll usually find me:
-
-* Reading research papers
-* Exploring new ideas
-* Public speaking
-* Working on research and innovation projects
-* Learning something completely unrelated to my current work
 
 ---
 <p align="center">
